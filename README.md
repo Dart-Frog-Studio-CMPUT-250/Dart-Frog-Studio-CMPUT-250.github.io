@@ -24,12 +24,12 @@ The game is available [here](https://dart-frog-studio-cmput-250.github.io/)
 
 ### How to play
 
-Using arrow keys and WASD to move the characters
-Using the V key for environmental switching
-Hold down spacebar for 2.5 seconds to pull a statue
-Hold down an arrow key for 2.5 seconds to push a statue
-The lasers rotate clockwise
-The lasers and cannons can kill you
+- Using arrow keys and WASD to move the characters
+- Using the V key for environmental switching
+- Hold down spacebar for 2.5 seconds to pull a statue
+- Hold down an arrow key for 2.5 seconds to push a statue
+- The lasers rotate clockwise
+- The lasers and cannons can kill you
 
 ### Description
 
